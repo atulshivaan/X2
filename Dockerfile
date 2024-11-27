@@ -17,7 +17,7 @@ FROM openjdk:23-jdk-slim
 
 
 # Copy the built JAR file from the build stage to the run stage
-COPY --from=build /app/target/x2.jar x2.jar
+COPY --from=build /app/target/eX2.jar X2.jar
 
 # Expose port (optional, if your application listens on a specific port)
 EXPOSE 8080
