@@ -1,4 +1,4 @@
-Employee Management System
+X2
 Overview
 The Employee Management System is a web application designed to help businesses manage their employee records effectively. It allows administrators to add, view, update, and delete employee details such as name, email, phone number, and department. The system is built using Spring Boot for the backend, Thymeleaf for the front end, and MySQL as the database.
 
